@@ -57,14 +57,14 @@
         .hero-title {
             font-size: 2.5rem;
             font-weight: 600;
-            color: #333;
+            color: black;
             margin-bottom: 2rem;
             line-height: 1.2;
         }
 
         .hero-subtitle {
             font-size: 1.1rem;
-            color: #666;
+            color: #100f0f;
             margin-bottom: 3rem;
             max-width: 600px;
             margin-left: auto;
@@ -119,7 +119,7 @@
         .narrative-content {
             font-size: 1rem;
             line-height: 1.8;
-            color: #555;
+            color: #000000;
             text-align: justify;
         }
 
